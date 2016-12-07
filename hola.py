@@ -9,7 +9,7 @@ class Imagen():
         pass
 class Sonido():
     def reproducir(self):
-        pass
+        print('Reproduciendo...')
     def volumen(self):
         pass
     def fourier(self):
